@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: pink;
+    color: rgb(46, 46, 46);
+    padding: 10px;
+    text-align: center;
+}
+section {
+    padding: 20px;
+}
+.contact-info {
+    background: pink;
+    color: rgb(46, 46, 46);
+    padding: 10px;
+    text-align: center;
+}
+footer {
+    background: pink;
+    color: rgb(46, 46, 46);
+    padding: 10px;
+    text-align: center;
+}
